@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <video src="source/video.mp4" autoplay loop muted playsinline width="100%"></video>
+    <img src="source/video.gif" width="100%" />
   </a>
 </p>
 
