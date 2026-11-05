@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/S1ach"><img src="https://img.shields.io/badge/Telegram-%40S1ach-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:fonga2014timur@yandex.ru"><img src="https://img.shields.io/badge/Email-fonga2014timur%40yandex.ru-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
