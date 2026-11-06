@@ -1,87 +1,52 @@
-<h1 align="center">Привет! Я Тимур 👋</h1>
+<h1 align="center">Тимур Гильманов</h1>
 <p align="center">
-  <strong>Fullstack-разработчик из Москвы</strong>
+  <strong>Fullstack-разработчик · TypeScript · React / Vue 3 · Node.js</strong><br/>
+  📍 Москва
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="mailto:fonga2014timur@yandex.ru"><img src="https://img.shields.io/badge/Email-fonga2014timur%40yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
     <img src="source/video.gif" width="100%" />
-  </a>
 </p>
+
+---
+
+### Обо мне
+
+Делаю интерфейсы для работы с данными и серверную часть под них: кабинеты операционистов, админ-панели, сложные таблицы и формы.
+Последний проект — платёжный процессинг: кабинет на **React + TypeScript** и BFF на **NestJS**.
+
+Интересуюсь архитектурой фронтенда (Feature-Sliced Design), производительностью интерфейсов и UX внутренних инструментов.
+
+---
+
+### Стек
+
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,redux,vite,html,css,sass,tailwind" alt="Frontend" />
+</p>
+
+**Backend и данные**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,php,postgres,mysql,sqlite,redis,firebase" alt="Backend" />
+</p>
+
+**Инструменты и дизайн**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,figma,ai,ps" alt="Tools" />
+</p>
+
+<sub>Также: RTK Query, React Query, Pinia, WebSocket, REST, Ant Design, Radix UI, Bootstrap</sub>
+
+---
 
 <p align="center">
-  <a href="mailto:fonga2014timur@yandex.ru"><img src="https://img.shields.io/badge/Email-fonga2014timur%40yandex.ru-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-### 👨‍💻 Обо мне
-
-Я Fullstack-разработчик, создаю современные веб-приложения: сайты, личные кабинеты, админ-панели, формы, таблицы и интерфейсы для работы с данными.
-
-Имею практический опыт в веб-разработке: участвовал в разработке корпоративных веб-интерфейсов, дорабатывал UI-компоненты, клиентскую логику, состояния интерфейса, интеграцию с REST API и серверную часть приложений.
-
-Работаю с Vue 3, React, TypeScript, JavaScript, Tailwind CSS, Laravel, PHP и базами данных. Умею работать с компонентным подходом, стараюсь писать чистый и поддерживаемый код, а также продумывать структуру приложения с точки зрения удобства пользователя.
-
-Мне интересны продуктовая разработка, архитектура веб-приложений, Feature-Sliced Design, UI/UX и создание сервисов, которые помогают пользователю быстро и удобно решать свои задачи.
-
----
-
-### ⚡ Несколько фактов обо мне
-
-* Учился в Московском Политехническом университете на направлении «Прикладная математика и информатика»;
-* Уже имею практический опыт работы в веб-разработке;
-* Работал над корпоративными веб-интерфейсами в ЖелДорЭкспедиции;
-* Разрабатывал и дорабатывал UI-компоненты, таблицы, формы, статусы, клиентскую логику и состояния интерфейса;
-* Интегрировал frontend-часть с REST API;
-* Работал с Vue 3, Tailwind CSS, PrimeVue и AG Grid в задачах, близких к коммерческой разработке;
-* Создавал интерфейсы для личных кабинетов, админ-панелей, форм, таблиц и интерактивных сервисов;
-* Работал с Laravel, PHP, MySQL и SQLite;
-* Понимаю принципы компонентной архитектуры и Feature-Sliced Design;
-* Использую Figma и Adobe Illustrator для работы с макетами, дизайном и визуальными элементами;
-* Интересуюсь архитектурой веб-приложений, UI/UX и современными веб-технологиями.
-
----
-
-### 🛠 Технологический стек
-
-#### Основной стек:
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="40" /></a>
-  <a href="https://sass-lang.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" height="40" /></a>
-  <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue 3" height="40" /></a>
-  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="40" /></a>
-  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="40" /></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="40" /></a>
-  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="40" /></a>
-</p>
-
-#### Дополнительный опыт и библиотеки:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PrimeVue-10B981?style=flat-square&logo=primevue&logoColor=white" alt="PrimeVue" />
-  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/AG_Grid-2185D0?style=flat-square&logo=aggrid&logoColor=white" alt="AG Grid" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white" alt="RTK Query" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-#### Дизайн и прототипирование:
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/figma/ffffff" alt="Figma" height="40" />
-  <img src="source/illustrator-white.svg" alt="Adobe Illustrator" height="40" />
-  <img src="source/photoshop-white.svg" alt="Adobe Photoshop" height="40" />
+  <sub>Московский Политех · Прикладная математика и информатика · 2026</sub>
 </p>
